@@ -38,6 +38,8 @@ Users should be able to:
 - Bootstrap
 - SCSS custom properties
 - Flexbox
+- HTML
+- Javascript
 
 ## Author
 
